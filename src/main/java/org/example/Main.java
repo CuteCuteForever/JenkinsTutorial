@@ -4,11 +4,13 @@ import org.apache.commons.lang3.StringUtils;
 
 public class Main {
     public static void main(String[] args) {
-        if (StringUtils.equals("Hello", "Hello")) {
+        /*if (StringUtils.equals("Hello", "Hello")) {
             System.out.println("Hello world Again!");
         } else {
             System.out.println("Nothing to hello");
-        }
+        }*/
+
+        System.out.println("hello from Intellij !");
 
     }
 }
